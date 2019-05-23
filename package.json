@@ -1,0 +1,14 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "Cryptocurrency implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cryptocurrency"
+  ],
+  "author": "CSxCoin Developers",
+  "license": "ISC"
+}
